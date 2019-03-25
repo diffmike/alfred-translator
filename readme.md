@@ -14,3 +14,7 @@ Translate words and phrases between English and Russian languages using the `dic
 - `dict open-source + ALT button` — Add `open-sourse` into the favorites list
 - `dict fav + ENTER button` — Open Favorites csv file to edit it manually
 - Press enter to go to the google translate with requested phrase
+
+## Examples
+![Empty state](/screenshots/empty.png)
+![Translation example](/screenshots/translation.png)
